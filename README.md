@@ -1,1 +1,1 @@
-# js-poker-variant
+# poker-variant
